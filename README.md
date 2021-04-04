@@ -1,3 +1,3 @@
 # Hello-World
-Tryna Doin My First Merge
+Tryna Doin My First
 Commit Succesfull :)
